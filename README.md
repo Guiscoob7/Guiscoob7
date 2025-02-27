@@ -51,6 +51,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Guiscoob7/Guiscoob7/output/snake.svg" alt="Snake animation" />
-
 ###
