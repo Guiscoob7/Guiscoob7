@@ -78,7 +78,7 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novas soluç�
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Guiscoob7&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://i.pinimg.com/originals/2c/5c/31/2c5c3123f86659276400b8ed8ffc2a47.gif" alt="Profile Views" />
   
   **"Código é poesia em movimento"** 💜
 </div>
